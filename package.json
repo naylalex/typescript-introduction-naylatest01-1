@@ -15,5 +15,14 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.6.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naylalex/typescript-introduction-naylatest01-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naylalex/typescript-introduction-naylatest01-1/issues"
+  },
+  "homepage": "https://github.com/naylalex/typescript-introduction-naylatest01-1#readme"
 }
